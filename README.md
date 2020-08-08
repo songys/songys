@@ -2,13 +2,8 @@
 
 
 
-[![songys's github stats](https://github-readme-stats.vercel.app/api?username=songys)](https://github.com/songys/github-readme-stats)
+[![songys's github stats](https://github-readme-stats.vercel.app/api?username=songys)](https://github.com/songys/songys)
 
-
-
-<div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongys)](https://hits.seeyoufarm.com)
-</div>
 
 
 
