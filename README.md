@@ -2,7 +2,7 @@
 
 
 
-[![songys's github stats](https://github-readme-stats.vercel.app/api?username=songys)](https://github.com/songys/songys)
+![songys's github stats](https://github-readme-stats.vercel.app/api?username=songys)](https://github.com/songys/songys)
 
 
  
