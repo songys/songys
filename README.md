@@ -11,10 +11,10 @@
   
   
   :cherry_blossom: 개인적으로 구축해서 공개한 데이터들 ...              
-  1. 유사문장 생성에 관한 단상과 데이터 :  https://github.com/songys/Question_pair               
-  2. 악평 감성 분류 세분화(시도) https://github.com/songys/Toxic_comment_data     
-  3. chatbot :    https://github.com/songys/Chatbot_data  
-  4. 개체명(Entity)에 관한 단상과 데이터  : https://github.com/songys/entity              
+        
+  1. 악평 감성 분류 세분화(시도) https://github.com/songys/Toxic_comment_data     
+  2. chatbot :    https://github.com/songys/Chatbot_data  
+  3. 개체명(Entity)에 관한 단상과 데이터  : https://github.com/songys/entity              
   
   
   :four_leaf_clover: 데이터 구축과 관련된 단상들 ...      
