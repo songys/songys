@@ -19,7 +19,7 @@
   
   :four_leaf_clover: 데이터 구축과 관련된 단상들 ...      
   
-  1. NIL(Entailment)에 대한 단상  :  https://github.com/songys/Natural-Language-Inference
+  1. NLI(Entailment)에 대한 단상  :  https://github.com/songys/Natural-Language-Inference
 
 
   :octocat: 데이터 세트 링크 정리                       
