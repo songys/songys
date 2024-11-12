@@ -24,7 +24,8 @@
 
   :octocat: 데이터 세트 링크 정리                       
   1. 자연어 처리 일반 : https://github.com/songys/AwesomeKorean_Data              
-  2. 음성과 신호 처리: https://github.com/songys/AwesomeKorean_Speech                
+  2. 음성과 신호 처리: https://github.com/songys/AwesomeKorean_Speech
+  3. 허깅페이스 한국어 데이터 세트 : https://github.com/songys/huggingface_KoreanDataset
   
   
   
