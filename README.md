@@ -10,16 +10,12 @@
   
   
   
-  :cherry_blossom: 개인적으로 구축해서 공개한 데이터들 ...              
+   :octocat: 개인적으로 구축해서 공개한 데이터들 ...              
         
    
   1. chatbot :    https://github.com/songys/Chatbot_data  
   2. 개체명(Entity)에 관한 단상과 데이터  : https://github.com/songys/entity              
   
-  
-  :four_leaf_clover: 데이터 구축과 관련된 단상들 ...      
-  
-  1. NLI(Entailment)에 대한 단상  :  https://github.com/songys/Natural-Language-Inference
 
 
   :octocat: 데이터 세트 링크 정리                       
