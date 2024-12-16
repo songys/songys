@@ -25,7 +25,7 @@
   
   
   :octocat: 저서 및 역서 코드
-  1. 기초부터 다지는 통계학 교과서 with 파이썬(2024 발간 예정) : https://github.com/KoISLP/lab
+  1. 기초부터 다지는 통계학 교과서 with 파이썬(2024.12.18) : https://github.com/KoISLP/lab
   2. 모두의 한국어 텍스트 분석(2023.5.29) : https://github.com/pytextbook
   3. 파이썬을 활용한 딥러닝 전이학습(2019.10.11) : https://github.com/Transfer-Learning-with-Python 
   
